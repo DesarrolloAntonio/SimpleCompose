@@ -1,6 +1,6 @@
-## SimpleCleanCode
+## SimpleCompose
 
-A very simple sample project that uses MVVM architecture with Dependency Injection, LiveData, Repository Pattern, FragmentFactory, Retrofit, Testing...  
+A simple project in Jetpack Compose with MVVM + DI(Hilt) + Repository pattern + Retrofit
 
 ## Architecture
 ![Logo](./images/compose_architecture.png) 
