@@ -1,2 +1,4 @@
 rootProject.name = "SimpleCompose"
-include ':SimpleCompose'
+include ':presentation'
+include ':domain'
+include ':data'
